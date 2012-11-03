@@ -6,6 +6,8 @@ $primary-text-color: #444;
 $primary-link-color: #555;
 $subtle: lighten($primary-text-color,15%);
 
+$navlink-color: #b02624;
+
 @mixin primary-typeface {
   font-family: Helvetica, Arial, sans-serif;
 }

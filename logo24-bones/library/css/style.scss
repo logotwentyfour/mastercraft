@@ -157,9 +157,7 @@ strong {
 
 
 // <ul> The Nav/Menu bar
-.top-nav, .footer-nav {
-  background-color: $brand-color;
-  
+.top-nav, .footer-nav {  
   li {
     display: inline;
     position: relative;
@@ -168,19 +166,18 @@ strong {
     &:hover {
       .sub-menu {
         display: block;
-        background-color: $brand-color;
       }
     }
     
     a, a:link, a:visited {
-      border-right: 1px solid $secondary-color;
-      color: #fff;
+      border-right: 1px solid #D16332;
+      color: #d3523b;
       @include inline-block;
       padding: pem(7px) pem(18px);
     }
     
     a:hover, a:focus, a:active {
-      background: $secondary-color;
+      background: #f2d5c8;
     }
   }
 }
