@@ -40,7 +40,7 @@
   
   <!--[if ! lte IE 6]><!-->
   <!-- Gridset hosted CSS goes here in development -->
-  <link href="https://get.gridsetapp.com/10484/" rel="stylesheet" />
+  <link href="https://get.gridsetapp.com/12028/" rel="stylesheet" />
   <!--<![endif]-->
   
   <!--[if lte IE 6]>

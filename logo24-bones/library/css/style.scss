@@ -111,10 +111,10 @@ strong {
     font-size: 1em;
     a, a:link, a:visited {
       background-image: url('/wp-content/themes/logo24-bones/library/images/logo.png');
-      height: pem(44px);
+      height: pem(190px);
       margin: 0 auto pem(39px) auto;
       @extend .ir;
-      width: pem(152px);
+      width: pem(250px);
 
       // (480 @ 16px)
       @media only screen and (min-width: 30em) {
@@ -145,7 +145,7 @@ strong {
   left: 0;
   width: pem(200px); // Adjust this value as required.
   z-index: 99999;
-  background-color: $brand-color;
+  background-color: #fff;
 
     a{
       border-right: none !important;
